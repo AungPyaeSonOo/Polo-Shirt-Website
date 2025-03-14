@@ -75,11 +75,11 @@
 
   /* Navbar Start*/
     #navbar {
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(94, 94, 94, 0.1);
    }
    #logo{
     margin-left: 15px;
-    color: white;
+    color: rgb(75, 148, 12);
     font-size: 25px;
     font-weight: bold;
     margin-bottom: 6px;
@@ -97,7 +97,7 @@
     margin-left: 10px;
    }
    .nav-item .nav-link{
-    color: wheat;
+    color: rgb(0, 0, 0);
     margin-left: 2px;
     text-shadow: 0px 0px 1px black;
     transition: 0.5s ease;
